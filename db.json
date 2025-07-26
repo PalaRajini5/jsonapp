@@ -1,0 +1,13 @@
+{
+  "students": [
+    { "id": "101", "name": "Alice", "grade": "A" },
+    { "id": "102", "name": "Bob", "grade": "B" }
+  ],
+  "assignments": [
+    { "id": "1", "title": "Math Homework", "studentId": "1" },
+    { "id": "2", "title": "Science Project", "studentId": "2" }
+  ],
+  "profile": {
+    "school": "Greenwood High"
+  }
+}
